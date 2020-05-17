@@ -1,0 +1,8 @@
+prefix=/home/nvidia/zed-ros/install
+
+Name: zed_map_on
+Description: Description of zed_map_on
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

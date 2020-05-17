@@ -1,0 +1,8 @@
+prefix=/home/nvidia/zed-ros/devel
+
+Name: left_right_rect
+Description: Description of left_right_rect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

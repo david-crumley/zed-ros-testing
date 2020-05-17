@@ -1,0 +1,8 @@
+prefix=/home/nvidia/zed-ros/devel
+
+Name: rtab_map
+Description: Description of rtab_map
+Version: 3.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

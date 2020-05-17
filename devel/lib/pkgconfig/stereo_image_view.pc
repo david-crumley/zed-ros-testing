@@ -1,0 +1,8 @@
+prefix=/home/nvidia/zed-ros/devel
+
+Name: stereo_image_view
+Description: Description of stereo_image_view
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
